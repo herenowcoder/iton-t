@@ -1,0 +1,8 @@
+[package]
+name = "iron-t"
+version = "0.1.0"
+authors = ["Wojciech Kaczmarek <wojtekk@kofeina.net>"]
+
+[dependencies]
+time    = "*"
+iron    = "*"
